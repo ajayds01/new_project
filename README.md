@@ -1,4 +1,4 @@
 # new_project
 This is my New Project Git Repository
 <br>
-Author - Ajay DS
+Author - Ajay DS (Drr college)
